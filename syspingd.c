@@ -29,7 +29,7 @@ int main(){
 	close(STDERR_FILENO);
 
 	while(true){
-		system("python3 /home/deepak/.config/bspwm/scripts/ping.py");
+		system("python3 PATH TO THE PYTHON FILE/ping.py");
 		sleep(10);
 		
 	}
