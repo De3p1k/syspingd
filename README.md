@@ -26,7 +26,7 @@ Syspingd is a custom Linux daemon that monitors the availability of your home la
 
 2. **Modify the Source Code**
    
- Open the syspingd.c file and change the path of ping.py to the correct location on your system.
+   Open the syspingd.c file and change the path of ping.py to the correct location on your system.
 
 3. **Prepare the Log File**
    
