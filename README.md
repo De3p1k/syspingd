@@ -39,7 +39,7 @@ Syspingd is a custom Linux daemon that monitors the availability of your home la
 
    Open ping.py and replace <PATH TO YOUR ICON> with the path to any icon you'd like to be displayed along with the notification.
 
-6. ** Compile the Daemon**
+6. **Compile the Daemon**
 
    ```bash
    gcc -o syspingd syspingd.c
